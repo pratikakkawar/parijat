@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Parijat",
+    "description": "",
+    "home_page_url": "https://pratikakkawar.github.io/parijat",
+    "feed_url": "https://pratikakkawar.github.io/parijat/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "pratikakkawar"
+    },
+    "items": [
+    ]
+}
